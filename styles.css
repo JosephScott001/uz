@@ -1,0 +1,321 @@
+
+.brand {
+  background-color: #FFFFFF; 
+color: #F600B2;
+text-decoration: none;
+text-align: center;
+font-weight:700 ;
+font-family:"inter";
+font-size: 22px;
+}
+.nav-link{
+font-size:22px ;
+font-family:"inter" ;
+
+}
+.btn{
+background-color: #F600B2;
+margin-left: 1px;
+position: relative;
+top: 3px;
+padding: 6px;
+}
+
+
+.img-container{
+   position:relative ;
+   height: 650px;
+   left: 0px;
+   background: #020202;
+ 
+}
+
+.we{
+text-align: center;
+color:white ;
+padding-top:71px ;
+font-size:22px ;
+}
+
+
+.check{
+ background-color: #F600B2;
+ text-align: center; 
+ padding-top:50px ;
+ padding: 20px 32px;
+ position: absolute;
+ height: 70px;
+ left: 130.76px;
+top:164px;
+ border-radius: 8px;
+text-decoration: none;
+color:#020202;
+
+}
+
+
+.first-img{
+ position:absolute;
+   width:250px ;
+   border-radius:8px ;
+   height: 275px;
+   margin-left:90.79px;
+   top: 290px;
+   font-family: 'Neue Metana';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 40px;
+   text-align: center;
+   color:black;  
+   background: url(colorful-1325264_1280);
+
+text-align: center;
+
+}
+
+.product{
+  position: relative;
+  height: 120px;
+  padding-top:30px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 40px;
+  text-align: center;
+  
+  color: #353535;
+  
+}
+
+#title{
+background-color:white ;
+
+}
+
+#shape{
+background-color:white;
+text-align: center;
+
+}
+.shape-box{
+background-color: #FFFFFF ;
+text-align: center;
+line-height:22 ;
+}
+
+.shape1{
+ border-radius:100px  ;
+}
+.shape2{
+  border-radius:100px ;
+
+}
+.shape3{border-radius:100px ;}
+
+.shape4{
+  border-radius:100px ;
+
+}
+
+.shape5{
+  border-radius:100px ;
+}
+.shape6{
+  border-radius:100px ;
+}
+.shape7{
+  border-radius:100px ;
+}
+
+.shape8{
+  border-radius:100px ; 
+}
+.shape9{
+  border-radius:100px ;
+ width:1px ;
+}
+
+.third-container{
+text-align: center;
+background-color: #020202;
+
+}
+
+.you{
+ font-size:22px;
+ font-weight: 700;
+ color:#F600B2;
+ font-family:"Neue Metana" ;
+line-height:10 ;
+}
+.company{
+font-size:20px ;
+font-weight: 700;
+color: #FFFFFF;
+font-family:"neue metana" ;
+
+}
+
+.All{
+  font-size:20px ;
+  font-weight: 700;
+  color: #FFFFFF;
+  font-family:"neue metana" ;
+
+
+}
+.copyright{
+  font-size:20px ;
+  font-weight: 700;
+  color: #FFFFFF;
+  font-family:"neue metana" ;
+
+
+}
+
+.fourth-container{
+text-align: center;
+font-family: 'Neue Metana';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 40px;
+color: #666666;
+background-color: #020202;
+color:white ;
+
+}
+
+
+
+
+.fifth-container{
+text-align: center;
+border-radius:100px ;
+line-height:10;
+}
+.contact{
+text-align: center;
+font-weight: 700;
+font-size:22px ;
+font-family:"neue metana" ;
+color: #FFFFFF;
+background-color: #020202;
+width: fit-content;
+}
+
+
+
+
+.sixth-container{
+  text-align: center;
+  font-weight: 700;
+font-size:14px ;
+font-family:"neue metana" ;
+
+}
+.h3{
+color: #F600B2;
+
+}
+
+
+
+.submit{
+background-color: #F600B2;
+ 
+}
+
+
+.seventh-container{
+  background-color: #000000;
+}
+  
+.our{
+  text-align: center;
+  font-weight: 700;
+  font-size:22px ;
+  font-family:"neue metana" ;
+  background-color: #020202;
+  color: #FFFFFF;
+  position: relative;
+  top:0px;
+}  
+
+.out{
+  text-align: center;
+  font-weight: 700;
+  font-size:22px ;
+  font-family:"neue metana" ;
+  background-color: #020202;
+  color: #FFFFFF;
+  position: relative;
+  top:0px;
+  width:88px;
+}
+
+
+#section{
+background-color:grey;
+width: auto;
+height:1000px;
+text-align: center;
+}
+
+
+.eighth-container{
+text-align: center;
+position: relative;
+top:100px ;
+background-color:grey ;
+}
+.sign{
+text-align: center;
+font-weight: 700;
+font-size:22px ;
+font-family: sans-serif;
+
+}
+#help{
+position: relative;
+Top:111px;
+margin-right:122px;
+text-align: center;
+font-family: "Arimo, sans-serif";
+font-weight: 700;
+font-size:15px ;
+}
+.btno{
+  text-decoration: none;
+  position: relative;
+    bottom: 39px;
+    left: 108px;
+}
+
+
+.learn{
+text-decoration: none;
+color: #F600B2;
+
+bottom:23px;
+
+}
+#google{
+  position: relative;
+  Top:111px;
+  margin-right:122px;
+  text-align: center;
+  font-family: "Arimo, sans-serif";
+  font-weight: 700;
+  font-size:15px ;
+
+}
+
+@media { { max-width:1028px;}
+ .first-img{position:absolute;} 
+ #shape{text-align:center;}
+ .brand{text-align: center;}
+ #section{text-align: center;} }
+
+
